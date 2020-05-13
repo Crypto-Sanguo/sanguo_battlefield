@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "4e3ce141-f60a-439e-9663-4037dada55c5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "holylights_tt": {
+      "ver": "1.0.3",
+      "uuid": "4fa72484-3686-4a29-be9d-06248cdafa6c",
+      "rawTextureUuid": "4e3ce141-f60a-439e-9663-4037dada55c5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 51,
+      "height": 128,
+      "rawWidth": 54,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

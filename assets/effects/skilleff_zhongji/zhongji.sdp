@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SkeletonParts version="1.0">
+  <SkeletonTree version="1.0">
+    <NodeName Tag="30" Name="shan"/>
+    <NodeName Tag="28" Name="baojian01"/>
+    <NodeName Tag="29" Name="baojian02"/>
+    <NodeName Tag="31" Name="bao"/>
+    <NodeName Tag="32" Name="baojian03"/>
+    <NodeName Tag="33" Name="baojian04"/>
+    <NodeTier Tag="30" ParentTag="31"/>
+    <NodeTier Tag="28" ParentTag="31"/>
+    <NodeTier Tag="29" ParentTag="31"/>
+    <NodeTier Tag="31" ParentTag="-1"/>
+    <NodeTier Tag="32" ParentTag="31"/>
+    <NodeTier Tag="33" ParentTag="31"/>
+  </SkeletonTree>
+  <SkeletonAction version="1.0" TotalFrame="6" Rate="15">
+    <NodeData Tag="30" AnchorX="0.500000" AnchorY="0.500000">
+      <FrameData Frame="0" PosX="-5.714277" PosY="12.857123" ScaleX="1.500000" ScaleY="1.500000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="0"/>
+      <FrameData Frame="1" PosX="-5.714277" PosY="12.857123" ScaleX="1.500000" ScaleY="1.500000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="2" PosX="-5.714277" PosY="12.857123" ScaleX="1.500000" ScaleY="1.500000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="3" PosX="-5.714277" PosY="12.857123" ScaleX="1.500000" ScaleY="1.500000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="4" PosX="-5.714277" PosY="12.857123" ScaleX="1.500000" ScaleY="1.500000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="0"/>
+    </NodeData>
+    <NodeData Tag="28" AnchorX="0.500000" AnchorY="0.500000">
+      <FrameData Frame="0" PosX="174.285736" PosY="-4.285736" ScaleX="1.700000" ScaleY="1.700000" SkewX="0.000000" SkewY="0.000000" Rot="-10.752495" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+      <FrameData Frame="1" PosX="17.142868" PosY="-4.285715" ScaleX="1.700000" ScaleY="1.700000" SkewX="0.000000" SkewY="0.000000" Rot="-6.235813" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="2" PosX="6.142868" PosY="-4.285715" ScaleX="1.966667" ScaleY="1.966667" SkewX="0.000000" SkewY="0.000000" Rot="-6.235813" Color="r=255; g=255; b=255" Opacity="170" Visible="1"/>
+      <FrameData Frame="3" PosX="17.142868" PosY="-4.285715" ScaleX="1.700000" ScaleY="1.700000" SkewX="0.000000" SkewY="0.000000" Rot="-9.058949" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="5" PosX="17.142868" PosY="-4.285715" ScaleX="2.500000" ScaleY="2.500000" SkewX="0.000000" SkewY="0.000000" Rot="-6.235813" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+    </NodeData>
+    <NodeData Tag="29" AnchorX="0.500000" AnchorY="0.500000">
+      <FrameData Frame="0" PosX="-184.285721" PosY="2.857122" ScaleX="-1.700000" ScaleY="1.700000" SkewX="0.000000" SkewY="0.000000" Rot="12.005226" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+      <FrameData Frame="1" PosX="-4.285706" PosY="-4.285715" ScaleX="-1.700000" ScaleY="1.700000" SkewX="0.000000" SkewY="0.000000" Rot="6.912552" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="2" PosX="5.714294" PosY="-4.285715" ScaleX="-1.966667" ScaleY="1.966667" SkewX="0.000000" SkewY="0.000000" Rot="6.912552" Color="r=255; g=255; b=255" Opacity="170" Visible="1"/>
+      <FrameData Frame="3" PosX="-4.285706" PosY="-4.285715" ScaleX="-1.700000" ScaleY="1.700000" SkewX="0.000000" SkewY="0.000000" Rot="7.629604" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="5" PosX="-4.285706" PosY="-4.285715" ScaleX="-2.500000" ScaleY="2.500000" SkewX="0.000000" SkewY="0.000000" Rot="6.912552" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+    </NodeData>
+    <NodeData Tag="31" AnchorX="0.500000" AnchorY="0.500000">
+      <FrameData Frame="0" PosX="-4.000000" PosY="87.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="4" PosX="-7.000000" PosY="87.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+    </NodeData>
+    <NodeData Tag="32" AnchorX="0.500000" AnchorY="0.500000">
+      <FrameData Frame="3" PosX="17.571440" PosY="-5.575637" ScaleX="1.700000" ScaleY="1.700000" SkewX="0.000000" SkewY="0.000000" Rot="-6.154671" Color="r=255; g=255; b=255" Opacity="255" Visible="0"/>
+      <FrameData Frame="4" PosX="17.571440" PosY="-5.575637" ScaleX="1.700000" ScaleY="1.700000" SkewX="0.000000" SkewY="0.000000" Rot="-8.936569" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="6" PosX="17.571440" PosY="-5.575637" ScaleX="3.500000" ScaleY="3.500000" SkewX="0.000000" SkewY="0.000000" Rot="-6.154671" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+    </NodeData>
+    <NodeData Tag="33" AnchorX="0.500000" AnchorY="0.500000">
+      <FrameData Frame="3" PosX="-4.285706" PosY="-4.286304" ScaleX="-1.700000" ScaleY="1.700000" SkewX="0.000000" SkewY="0.000000" Rot="6.092010" Color="r=255; g=255; b=255" Opacity="255" Visible="0"/>
+      <FrameData Frame="4" PosX="-4.285706" PosY="-4.286304" ScaleX="-1.700000" ScaleY="1.700000" SkewX="0.000000" SkewY="0.000000" Rot="4.922058" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="6" PosX="-4.285706" PosY="-4.286304" ScaleX="-3.500000" ScaleY="3.500000" SkewX="0.000000" SkewY="0.000000" Rot="6.092010" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+    </NodeData>
+  </SkeletonAction>
+  <SkeletonSkin version="1.0">
+    <KeyFrameAnim Tag="30">
+      <FrameData Frame="0" Name="zhongji_shan0001.png"/>
+      <FrameData Frame="1" Name="zhongji_shan0001.png"/>
+      <FrameData Frame="2" Name="zhongji_shan0005.png"/>
+      <FrameData Frame="3" Name="zhongji_shan0007.png"/>
+    </KeyFrameAnim>
+    <KeyFrameAnim Tag="28">
+      <FrameData Frame="0" Name="zhongji_baojian.png"/>
+    </KeyFrameAnim>
+    <KeyFrameAnim Tag="29">
+      <FrameData Frame="0" Name="zhongji_baojian.png"/>
+    </KeyFrameAnim>
+    <KeyFrameAnim Tag="31"/>
+    <KeyFrameAnim Tag="32">
+      <FrameData Frame="3" Name="zhongji_baojian.png"/>
+    </KeyFrameAnim>
+    <KeyFrameAnim Tag="33">
+      <FrameData Frame="3" Name="zhongji_baojian.png"/>
+    </KeyFrameAnim>
+  </SkeletonSkin>
+</SkeletonParts>

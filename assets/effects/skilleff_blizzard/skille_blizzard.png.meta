@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "734d7df8-dd57-4f54-a95c-e3c4a8fa8251",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "skille_blizzard": {
+      "ver": "1.0.3",
+      "uuid": "428ec191-83e2-41cb-bd32-d2b7b030e9be",
+      "rawTextureUuid": "734d7df8-dd57-4f54-a95c-e3c4a8fa8251",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 2,
+      "width": 252,
+      "height": 496,
+      "rawWidth": 255,
+      "rawHeight": 500,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

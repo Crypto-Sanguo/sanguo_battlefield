@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SkeletonParts version="1.0">
+  <SkeletonTree version="1.0">
+    <NodeName Tag="2" Name="Sprite Node 3"/>
+    <NodeName Tag="1" Name="Sprite Node 2"/>
+    <NodeName Tag="3" Name="Sprite Node 4"/>
+    <NodeName Tag="4" Name="Sprite Node 5"/>
+    <NodeTier Tag="2" ParentTag="-1"/>
+    <NodeTier Tag="1" ParentTag="-1"/>
+    <NodeTier Tag="3" ParentTag="-1"/>
+    <NodeTier Tag="4" ParentTag="-1"/>
+  </SkeletonTree>
+  <SkeletonAction version="1.0" TotalFrame="12" Rate="15">
+    <NodeData Tag="2" AnchorX="0.500000" AnchorY="0.500000">
+      <FrameData Frame="0" PosX="6.000000" PosY="16.000000" ScaleX="1.300000" ScaleY="1.300000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="0"/>
+      <FrameData Frame="1" PosX="6.000000" PosY="16.000000" ScaleX="1.300000" ScaleY="1.300000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=0; g=0; b=0" Opacity="255" Visible="1"/>
+      <FrameData Frame="2" PosX="6.000000" PosY="16.000000" ScaleX="1.300000" ScaleY="1.300000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=0; g=0; b=0" Opacity="255" Visible="1"/>
+      <FrameData Frame="5" PosX="6.000000" PosY="16.000000" ScaleX="1.300000" ScaleY="1.300000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=0; g=0; b=0" Opacity="0" Visible="1"/>
+    </NodeData>
+    <NodeData Tag="1" AnchorX="0.500000" AnchorY="0.500000">
+      <FrameData Frame="0" PosX="42.285721" PosY="62.997650" ScaleX="1.200000" ScaleY="1.200000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+      <FrameData Frame="1" PosX="9.285721" PosY="19.997652" ScaleX="1.200000" ScaleY="1.200000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="2" PosX="-15.714279" PosY="-11.002348" ScaleX="1.200000" ScaleY="1.200000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+    </NodeData>
+    <NodeData Tag="3" AnchorX="0.500000" AnchorY="0.500000">
+      <FrameData Frame="0" PosX="-28.000000" PosY="51.000000" ScaleX="-1.200000" ScaleY="1.200000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+      <FrameData Frame="2" PosX="-28.000000" PosY="51.000000" ScaleX="-1.200000" ScaleY="1.200000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+      <FrameData Frame="3" PosX="3.000000" PosY="3.000000" ScaleX="-1.200000" ScaleY="1.200000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="4" PosX="22.000000" PosY="-17.000000" ScaleX="-1.200000" ScaleY="1.200000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+      <FrameData Frame="12" PosX="22.000000" PosY="-17.000000" ScaleX="-1.200000" ScaleY="1.200000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+    </NodeData>
+    <NodeData Tag="4" AnchorX="0.500000" AnchorY="0.500000">
+      <FrameData Frame="0" PosX="0.000000" PosY="0.000000" ScaleX="-1.200000" ScaleY="1.200000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=0; g=0; b=0" Opacity="255" Visible="0"/>
+      <FrameData Frame="3" PosX="0.000000" PosY="0.000000" ScaleX="-1.200000" ScaleY="1.200000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=0; g=0; b=0" Opacity="255" Visible="0"/>
+      <FrameData Frame="5" PosX="0.000000" PosY="0.000000" ScaleX="-1.200000" ScaleY="1.200000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=0; g=0; b=0" Opacity="255" Visible="1"/>
+      <FrameData Frame="8" PosX="0.000000" PosY="0.000000" ScaleX="-1.200000" ScaleY="1.200000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=0; g=0; b=0" Opacity="0" Visible="1"/>
+    </NodeData>
+  </SkeletonAction>
+  <SkeletonSkin version="1.0">
+    <KeyFrameAnim Tag="2">
+      <FrameData Frame="0" Name="backstab_eff.png"/>
+    </KeyFrameAnim>
+    <KeyFrameAnim Tag="1">
+      <FrameData Frame="0" Name="backstab_eff.png"/>
+    </KeyFrameAnim>
+    <KeyFrameAnim Tag="3">
+      <FrameData Frame="0" Name="backstab_eff.png"/>
+      <FrameData Frame="3" Name="backstab_eff.png"/>
+    </KeyFrameAnim>
+    <KeyFrameAnim Tag="4">
+      <FrameData Frame="0" Name="backstab_eff.png"/>
+      <FrameData Frame="5" Name="backstab_eff.png"/>
+    </KeyFrameAnim>
+  </SkeletonSkin>
+</SkeletonParts>

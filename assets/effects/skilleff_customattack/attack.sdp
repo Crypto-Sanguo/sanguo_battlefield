@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SkeletonParts version="1.0">
+  <SkeletonTree version="1.0">
+    <NodeName Tag="0" Name="Sprite Node 1"/>
+    <NodeTier Tag="0" ParentTag="-1"/>
+  </SkeletonTree>
+  <SkeletonAction version="1.0" TotalFrame="9" Rate="25">
+    <NodeData Tag="0" AnchorX="0.500000" AnchorY="0.500000"/>
+  </SkeletonAction>
+  <SkeletonSkin version="1.0">
+    <KeyFrameAnim Tag="0">
+      <FrameData Frame="0" Name="attack0002.png"/>
+      <FrameData Frame="2" Name="attack0004.png"/>
+      <FrameData Frame="3" Name="attack0005.png"/>
+      <FrameData Frame="5" Name="attack0007.png"/>
+      <FrameData Frame="7" Name="attack0009.png"/>
+      <FrameData Frame="9" Name="attack0011.png"/>
+    </KeyFrameAnim>
+  </SkeletonSkin>
+</SkeletonParts>

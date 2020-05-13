@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SkeletonParts version="1.0">
+  <SkeletonTree version="1.0">
+    <NodeName Tag="1" Name="Sprite Node 2"/>
+    <NodeTier Tag="1" ParentTag="-1"/>
+  </SkeletonTree>
+  <SkeletonAction version="1.0" TotalFrame="11" Rate="15">
+    <NodeData Tag="1" AnchorX="0.500000" AnchorY="0.500000">
+      <FrameData Frame="0" PosX="0.000000" PosY="0.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="2" PosX="0.000000" PosY="0.000000" ScaleX="1.500000" ScaleY="1.500000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="208" Visible="1"/>
+      <FrameData Frame="4" PosX="0.000000" PosY="0.000000" ScaleX="2.000000" ScaleY="2.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="161" Visible="1"/>
+      <FrameData Frame="6" PosX="0.000000" PosY="0.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="115" Visible="0"/>
+      <FrameData Frame="11" PosX="0.000000" PosY="0.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="115" Visible="0"/>
+    </NodeData>
+  </SkeletonAction>
+  <SkeletonSkin version="1.0">
+    <KeyFrameAnim Tag="1">
+      <FrameData Frame="0" Name="aobaohit_1.png"/>
+      <FrameData Frame="2" Name="aobaohit_3.png"/>
+      <FrameData Frame="4" Name="aobaohit_5.png"/>
+    </KeyFrameAnim>
+  </SkeletonSkin>
+</SkeletonParts>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SkeletonParts version="1.0">
+  <SkeletonTree version="1.0">
+    <NodeName Tag="1" Name="Sprite Node 2"/>
+    <NodeName Tag="2" Name="Sprite Node 3"/>
+    <NodeName Tag="3" Name="Sprite Node 4"/>
+    <NodeName Tag="4" Name="Sprite Node 5"/>
+    <NodeTier Tag="1" ParentTag="-1"/>
+    <NodeTier Tag="2" ParentTag="-1"/>
+    <NodeTier Tag="3" ParentTag="-1"/>
+    <NodeTier Tag="4" ParentTag="-1"/>
+  </SkeletonTree>
+  <SkeletonAction version="1.0" TotalFrame="5" Rate="15">
+    <NodeData Tag="1" AnchorX="0.500000" AnchorY="0.500000">
+      <FrameData Frame="0" PosX="0.000000" PosY="52.000000" ScaleX="0.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+      <FrameData Frame="2" PosX="0.000000" PosY="52.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+    </NodeData>
+    <NodeData Tag="2" AnchorX="0.500000" AnchorY="0.500000">
+      <FrameData Frame="2" PosX="0.000000" PosY="32.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+      <FrameData Frame="3" PosX="0.000000" PosY="32.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+    </NodeData>
+    <NodeData Tag="3" AnchorX="0.500000" AnchorY="0.500000">
+      <FrameData Frame="1" PosX="0.000000" PosY="112.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+      <FrameData Frame="3" PosX="0.000000" PosY="20.975245" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="4" PosX="0.000000" PosY="22.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="5" PosX="0.000000" PosY="5.000000" ScaleX="1.500000" ScaleY="1.500000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+    </NodeData>
+    <NodeData Tag="4" AnchorX="0.500000" AnchorY="0.500000">
+      <FrameData Frame="1" PosX="0.000000" PosY="27.000000" ScaleX="2.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+      <FrameData Frame="3" PosX="0.000000" PosY="27.000000" ScaleX="2.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="4" PosX="0.000000" PosY="-21.000000" ScaleX="0.800000" ScaleY="0.500000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+    </NodeData>
+  </SkeletonAction>
+  <SkeletonSkin version="1.0">
+    <KeyFrameAnim Tag="1">
+      <FrameData Frame="0" Name="smite_2.png"/>
+    </KeyFrameAnim>
+    <KeyFrameAnim Tag="2">
+      <FrameData Frame="3" Name="smite_1.png"/>
+    </KeyFrameAnim>
+    <KeyFrameAnim Tag="3">
+      <FrameData Frame="3" Name="smite_3.png"/>
+    </KeyFrameAnim>
+    <KeyFrameAnim Tag="4">
+      <FrameData Frame="3" Name="smite_1.png"/>
+    </KeyFrameAnim>
+  </SkeletonSkin>
+</SkeletonParts>

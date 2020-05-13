@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SkeletonParts version="1.0">
+  <SkeletonTree version="1.0">
+    <NodeName Tag="7" Name="b1"/>
+    <NodeName Tag="8" Name="b2"/>
+    <NodeName Tag="12" Name="Sprite Node 13"/>
+    <NodeName Tag="11" Name="Sprite Node 12"/>
+    <NodeName Tag="10" Name="Sprite Node 11"/>
+    <NodeName Tag="9" Name="Sprite Node 10"/>
+    <NodeName Tag="13" Name="Sprite Node 14"/>
+    <NodeName Tag="1" Name="ds1"/>
+    <NodeName Tag="2" Name="ds2"/>
+    <NodeName Tag="3" Name="ds3"/>
+    <NodeName Tag="4" Name="ds4"/>
+    <NodeName Tag="5" Name="ds5"/>
+    <NodeName Tag="6" Name="ds6"/>
+    <NodeTier Tag="7" ParentTag="-1"/>
+    <NodeTier Tag="8" ParentTag="-1"/>
+    <NodeTier Tag="12" ParentTag="-1"/>
+    <NodeTier Tag="11" ParentTag="-1"/>
+    <NodeTier Tag="10" ParentTag="-1"/>
+    <NodeTier Tag="9" ParentTag="-1"/>
+    <NodeTier Tag="13" ParentTag="-1"/>
+    <NodeTier Tag="1" ParentTag="-1"/>
+    <NodeTier Tag="2" ParentTag="-1"/>
+    <NodeTier Tag="3" ParentTag="-1"/>
+    <NodeTier Tag="4" ParentTag="-1"/>
+    <NodeTier Tag="5" ParentTag="-1"/>
+    <NodeTier Tag="6" ParentTag="-1"/>
+  </SkeletonTree>
+  <SkeletonAction version="1.0" TotalFrame="26" Rate="21">
+    <NodeData Tag="7" AnchorX="0.500000" AnchorY="0.500000">
+      <FrameData Frame="1" PosX="-86.249985" PosY="125.623718" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="-15.299267" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+      <FrameData Frame="2" PosX="-51.874992" PosY="103.747955" ScaleX="1.000000" ScaleY="0.500000" SkewX="0.000000" SkewY="0.000000" Rot="-6.279591" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="3" PosX="-25.624994" PosY="13.122031" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="-15.299267" Color="r=255; g=255; b=255" Opacity="51" Visible="1"/>
+      <FrameData Frame="15" PosX="-25.624994" PosY="16.309532" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="-15.299267" Color="r=255; g=255; b=255" Opacity="63" Visible="1"/>
+      <FrameData Frame="16" PosX="-25.624994" PosY="64.122032" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="-15.299267" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="17" PosX="-74.625000" PosY="59.121269" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="-15.299267" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="18" PosX="-65.625000" PosY="29.121269" ScaleX="1.000000" ScaleY="0.700000" SkewX="0.000000" SkewY="0.000000" Rot="-15.299267" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="19" PosX="-78.625000" PosY="8.121269" ScaleX="1.000000" ScaleY="0.700000" SkewX="0.000000" SkewY="0.000000" Rot="-15.299267" Color="r=255; g=255; b=255" Opacity="102" Visible="1"/>
+      <FrameData Frame="21" PosX="-74.625000" PosY="8.121269" ScaleX="1.000000" ScaleY="0.700000" SkewX="0.000000" SkewY="0.000000" Rot="-15.299267" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+    </NodeData>
+    <NodeData Tag="8" AnchorX="0.500000" AnchorY="0.500000">
+      <FrameData Frame="2" PosX="52.500000" PosY="97.498589" ScaleX="-1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+      <FrameData Frame="3" PosX="52.500000" PosY="97.498589" ScaleX="-0.500000" ScaleY="0.500000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="0"/>
+      <FrameData Frame="4" PosX="6.250003" PosY="24.997869" ScaleX="-1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="51" Visible="1"/>
+      <FrameData Frame="15" PosX="6.250003" PosY="24.997869" ScaleX="-1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="51" Visible="1"/>
+      <FrameData Frame="16" PosX="6.250003" PosY="50.997871" ScaleX="-1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="19.344460" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="17" PosX="67.624969" PosY="61.621708" ScaleX="-1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="19.344460" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="18" PosX="60.624969" PosY="36.621708" ScaleX="-1.000000" ScaleY="0.400000" SkewX="0.000000" SkewY="0.000000" Rot="19.344460" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="19" PosX="57.624969" PosY="2.621708" ScaleX="-1.000000" ScaleY="0.400000" SkewX="0.000000" SkewY="0.000000" Rot="19.344460" Color="r=255; g=255; b=255" Opacity="102" Visible="1"/>
+      <FrameData Frame="21" PosX="57.624969" PosY="-1.378292" ScaleX="-1.000000" ScaleY="0.400000" SkewX="0.000000" SkewY="0.000000" Rot="19.344460" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+    </NodeData>
+    <NodeData Tag="12" AnchorX="0.500000" AnchorY="0.500000">
+      <FrameData Frame="4" PosX="41.625000" PosY="54.998135" ScaleX="-1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="-22.696030" Color="r=255; g=255; b=255" Opacity="255" Visible="0"/>
+      <FrameData Frame="5" PosX="41.625000" PosY="54.998135" ScaleX="-1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="-22.696030" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="6" PosX="34.625000" PosY="35.998135" ScaleX="-1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="-34.693336" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="15" PosX="34.625000" PosY="35.998135" ScaleX="-1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="-34.693336" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="16" PosX="34.625000" PosY="35.998135" ScaleX="-1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="46.896217" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="17" PosX="28.625000" PosY="23.998135" ScaleX="-1.000000" ScaleY="0.600000" SkewX="0.000000" SkewY="0.000000" Rot="99.916046" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="18" PosX="34.625000" PosY="-6.001865" ScaleX="-1.000000" ScaleY="0.600000" SkewX="0.000000" SkewY="0.000000" Rot="99.916046" Color="r=255; g=255; b=255" Opacity="76" Visible="1"/>
+      <FrameData Frame="20" PosX="34.625000" PosY="-8.001865" ScaleX="-1.000000" ScaleY="0.600000" SkewX="0.000000" SkewY="0.000000" Rot="99.916046" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+    </NodeData>
+    <NodeData Tag="11" AnchorX="0.500000" AnchorY="0.500000">
+      <FrameData Frame="4" PosX="-47.874992" PosY="56.748093" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="17.421440" Color="r=255; g=255; b=255" Opacity="255" Visible="0"/>
+      <FrameData Frame="5" PosX="-47.874992" PosY="56.748093" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="17.421440" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="6" PosX="-47.874992" PosY="37.748093" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="26.477619" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="15" PosX="-47.874992" PosY="37.748093" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="29.874462" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="16" PosX="-38.874992" PosY="37.748093" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="102.272041" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="17" PosX="-29.874992" PosY="24.748093" ScaleX="1.000000" ScaleY="0.700000" SkewX="0.000000" SkewY="0.000000" Rot="56.054996" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="18" PosX="-25.874992" PosY="4.748093" ScaleX="1.000000" ScaleY="0.700000" SkewX="0.000000" SkewY="0.000000" Rot="56.054996" Color="r=255; g=255; b=255" Opacity="102" Visible="1"/>
+      <FrameData Frame="20" PosX="-25.874992" PosY="1.748093" ScaleX="1.000000" ScaleY="0.700000" SkewX="0.000000" SkewY="0.000000" Rot="56.054996" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+    </NodeData>
+    <NodeData Tag="10" AnchorX="0.500000" AnchorY="0.500000">
+      <FrameData Frame="4" PosX="-35.124992" PosY="16.998863" ScaleX="-1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+      <FrameData Frame="5" PosX="-35.124992" PosY="16.998863" ScaleX="-1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=160; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="6" PosX="-34.124992" PosY="16.998863" ScaleX="-1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="15" PosX="-34.124992" PosY="16.998863" ScaleX="-1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="17" PosX="-34.124992" PosY="16.998863" ScaleX="-1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+    </NodeData>
+    <NodeData Tag="9" AnchorX="0.500000" AnchorY="0.500000">
+      <FrameData Frame="3" PosX="31.250000" PosY="14.997890" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+      <FrameData Frame="5" PosX="31.250000" PosY="14.997890" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=160; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="6" PosX="28.250000" PosY="14.997890" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="15" PosX="28.250000" PosY="14.997890" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="16" PosX="28.250000" PosY="14.997890" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+    </NodeData>
+    <NodeData Tag="13" AnchorX="0.500000" AnchorY="0.500000">
+      <FrameData Frame="0" PosX="-2.749996" PosY="-5.875182" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="76" Visible="0"/>
+      <FrameData Frame="3" PosX="-2.749996" PosY="-5.875182" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="76" Visible="0"/>
+      <FrameData Frame="4" PosX="-2.749996" PosY="-5.875182" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="76" Visible="1"/>
+      <FrameData Frame="5" PosX="-2.749996" PosY="-5.875182" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="6" PosX="-2.749996" PosY="0.124818" ScaleX="1.000000" ScaleY="1.200000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="15" PosX="-2.749996" PosY="0.632976" ScaleX="1.000000" ScaleY="1.208314" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="16" PosX="-2.749996" PosY="0.124818" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="17" PosX="-2.749996" PosY="24.124817" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="-55.180561" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="18" PosX="-2.749996" PosY="54.124817" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="-55.180561" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="19" PosX="-2.749996" PosY="7.124817" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="-55.180561" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+      <FrameData Frame="26" PosX="-2.749996" PosY="4.124817" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="-55.180561" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+    </NodeData>
+    <NodeData Tag="1" AnchorX="0.500000" AnchorY="0.500000">
+      <FrameData Frame="0" PosX="-67.836578" PosY="127.211525" ScaleX="0.600000" ScaleY="0.600000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="2" PosX="-3.836578" PosY="67.211525" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="103.150970" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="4" PosX="-3.836578" PosY="32.211525" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+      <FrameData Frame="15" PosX="-3.836578" PosY="32.211525" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+      <FrameData Frame="16" PosX="-34.836578" PosY="66.211525" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="17" PosX="-62.836578" PosY="67.211525" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="19" PosX="-62.836578" PosY="101.211525" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="-56.619228" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+    </NodeData>
+    <NodeData Tag="2" AnchorX="0.500000" AnchorY="0.500000">
+      <FrameData Frame="0" PosX="63.000000" PosY="141.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="2" PosX="17.000000" PosY="55.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="85.687393" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="4" PosX="6.000000" PosY="31.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+      <FrameData Frame="15" PosX="6.000000" PosY="31.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+      <FrameData Frame="16" PosX="6.000000" PosY="31.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="17" PosX="51.000000" PosY="66.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="19" PosX="51.000000" PosY="86.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="-43.786816" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+    </NodeData>
+    <NodeData Tag="3" AnchorX="0.500000" AnchorY="0.500000">
+      <FrameData Frame="0" PosX="-68.000000" PosY="84.000000" ScaleX="0.700000" ScaleY="0.700000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+      <FrameData Frame="2" PosX="-20.000000" PosY="47.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="-79.298523" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="4" PosX="-20.000000" PosY="29.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+      <FrameData Frame="15" PosX="-20.000000" PosY="29.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+      <FrameData Frame="16" PosX="25.000000" PosY="29.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="17" PosX="25.000000" PosY="30.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="19" PosX="25.000000" PosY="50.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="-49.357468" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+    </NodeData>
+    <NodeData Tag="4" AnchorX="0.500000" AnchorY="0.500000">
+      <FrameData Frame="0" PosX="59.000000" PosY="110.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="153" Visible="1"/>
+      <FrameData Frame="2" PosX="-4.000000" PosY="39.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="71.225533" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="4" PosX="-4.000000" PosY="24.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+      <FrameData Frame="15" PosX="-4.000000" PosY="24.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+      <FrameData Frame="16" PosX="-34.000000" PosY="24.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="17" PosX="-34.000000" PosY="46.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="19" PosX="-34.000000" PosY="75.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="-45.107693" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+    </NodeData>
+    <NodeData Tag="5" AnchorX="0.500000" AnchorY="0.500000">
+      <FrameData Frame="0" PosX="69.000000" PosY="71.000000" ScaleX="0.500000" ScaleY="0.500000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="2" PosX="27.000000" PosY="33.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="-98.324890" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="4" PosX="6.000000" PosY="20.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+      <FrameData Frame="15" PosX="6.000000" PosY="20.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+      <FrameData Frame="16" PosX="6.000000" PosY="56.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="17" PosX="6.000000" PosY="65.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="19" PosX="6.000000" PosY="89.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="63.655819" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+    </NodeData>
+    <NodeData Tag="6" AnchorX="0.500000" AnchorY="0.500000">
+      <FrameData Frame="0" PosX="-2.000000" PosY="139.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="0.000000" Color="r=255; g=255; b=255" Opacity="178" Visible="1"/>
+      <FrameData Frame="2" PosX="-2.000000" PosY="22.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="113.642319" Color="r=255; g=255; b=255" Opacity="255" Visible="1"/>
+      <FrameData Frame="4" PosX="-2.000000" PosY="21.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="113.642319" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+      <FrameData Frame="20" PosX="-2.000000" PosY="28.000000" ScaleX="1.000000" ScaleY="1.000000" SkewX="0.000000" SkewY="0.000000" Rot="113.642319" Color="r=255; g=255; b=255" Opacity="0" Visible="1"/>
+    </NodeData>
+  </SkeletonAction>
+  <SkeletonSkin version="1.0">
+    <KeyFrameAnim Tag="7">
+      <FrameData Frame="2" Name="windcone_2.png"/>
+    </KeyFrameAnim>
+    <KeyFrameAnim Tag="8">
+      <FrameData Frame="3" Name="windcone_2.png"/>
+    </KeyFrameAnim>
+    <KeyFrameAnim Tag="12">
+      <FrameData Frame="5" Name="windcone_2.png"/>
+    </KeyFrameAnim>
+    <KeyFrameAnim Tag="11">
+      <FrameData Frame="4" Name="windcone_2.png"/>
+    </KeyFrameAnim>
+    <KeyFrameAnim Tag="10">
+      <FrameData Frame="5" Name="windcone_3.png"/>
+    </KeyFrameAnim>
+    <KeyFrameAnim Tag="9">
+      <FrameData Frame="5" Name="windcone_3.png"/>
+    </KeyFrameAnim>
+    <KeyFrameAnim Tag="13">
+      <FrameData Frame="4" Name="windcone_2.png"/>
+    </KeyFrameAnim>
+    <KeyFrameAnim Tag="1">
+      <FrameData Frame="0" Name="windcone_1.png"/>
+    </KeyFrameAnim>
+    <KeyFrameAnim Tag="2">
+      <FrameData Frame="0" Name="windcone_1.png"/>
+    </KeyFrameAnim>
+    <KeyFrameAnim Tag="3">
+      <FrameData Frame="0" Name="windcone_1.png"/>
+    </KeyFrameAnim>
+    <KeyFrameAnim Tag="4">
+      <FrameData Frame="0" Name="windcone_1.png"/>
+    </KeyFrameAnim>
+    <KeyFrameAnim Tag="5">
+      <FrameData Frame="0" Name="windcone_1.png"/>
+    </KeyFrameAnim>
+    <KeyFrameAnim Tag="6">
+      <FrameData Frame="0" Name="windcone_1.png"/>
+    </KeyFrameAnim>
+  </SkeletonSkin>
+</SkeletonParts>
